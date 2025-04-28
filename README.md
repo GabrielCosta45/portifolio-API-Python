@@ -15,10 +15,16 @@ O objetivo é transformar dados brutos em informações organizadas e disponíve
 ## 🛠️ Estrutura do projeto
 
 projeto_final/ 
-├── data/ # Dados extraídos (opcional) 
+├── data/ # Dados extraídos (opcional)
+
 ├── database/ # Banco de dados SQLite 
-├── src/ # Scripts de extração, tratamento, carga 
+
+├── src/ # Scripts de extração, tratamento, carga
+
 ├── alertas/ # Scripts de alertas 
+
 ├── README.md # Documentação do projeto 
+
 ├── requirements.txt # Dependências do projeto 
+
 └── .gitignore # Arquivos ignorados pelo Git
