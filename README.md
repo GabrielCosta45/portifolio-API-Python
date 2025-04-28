@@ -16,15 +16,17 @@ O objetivo é transformar dados brutos em informações organizadas e disponíve
 
 projeto_final/ 
 ├── data/ # Dados extraídos (opcional)
-
-├── database/ # Banco de dados SQLite 
-
-├── src/ # Scripts de extração, tratamento, carga
-
+├── src/ # Scripts de extração, tratamento, carga, loja.db
 ├── alertas/ # Scripts de alertas 
-
 ├── README.md # Documentação do projeto 
-
 ├── requirements.txt # Dependências do projeto 
-
 └── .gitignore # Arquivos ignorados pelo Git
+
+## 🛡️ Sistema de alertas
+
+O projeto implementa alertas automáticos para identificar inconsistências nos dados carregados, como campos vazios ou volumes de registros abaixo do esperado.
+
+## ✍️ Autor
+
+Gabriel Alexandre Costa
+
