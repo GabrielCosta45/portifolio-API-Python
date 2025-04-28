@@ -5,6 +5,8 @@ Este projeto faz parte do curso de Data Analytics da CoderHouse e consiste na co
 
 O objetivo é transformar dados brutos em informações organizadas e disponíveis para consulta em diferentes áreas de negócios.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🚀 Tecnologias utilizadas
 - Python 3.11
 - pandas
@@ -27,6 +29,8 @@ projeto_final/
 ├── requirements.txt # Dependências do projeto 
 
 └── .gitignore # Arquivos ignorados pelo Git
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛡️ Sistema de alertas
 
