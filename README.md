@@ -1,4 +1,4 @@
-# 📊 PROJETO FINAL - PIPELINE DE DADOS
+# 📊 PROJETO FINAL
 
 ## 📚 Descrição
 Este projeto faz parte do curso de Data Analytics da CoderHouse e consiste na construção de um pipeline de dados. As etapas incluem a extração de dados via API, tratamento dos dados, armazenamento em banco de dados SQLite, criação de um sistema de alertas e documentação final.
