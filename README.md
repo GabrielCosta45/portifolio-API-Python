@@ -14,12 +14,18 @@ O objetivo é transformar dados brutos em informações organizadas e disponíve
 
 ## 🛠️ Estrutura do projeto
 
-projeto_final/ 
+projeto_final/
+
 ├── data/ # Dados extraídos (opcional)
+
 ├── src/ # Scripts de extração, tratamento, carga, loja.db
+
 ├── alertas/ # Scripts de alertas 
+
 ├── README.md # Documentação do projeto 
+
 ├── requirements.txt # Dependências do projeto 
+
 └── .gitignore # Arquivos ignorados pelo Git
 
 ## 🛡️ Sistema de alertas
