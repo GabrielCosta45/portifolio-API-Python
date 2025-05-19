@@ -18,7 +18,7 @@ O objetivo é transformar dados brutos em informações organizadas e disponíve
 
 projeto_final/
 
-├── data/ # Dados extraídos (opcional)
+├── data/ # Dados extraídos
 
 ├── src/ # Scripts de extração, tratamento, carga, loja.db
 
